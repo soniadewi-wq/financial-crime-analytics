@@ -1,2 +1,8 @@
 # Payment cluster analysis
-Work in progress — SQL logic and dataset coming soon.
+Detect accounts receiving money from many unrelated sources + quickly sending funds out.
+
+Includes:
+- Multi-source funnels
+- Velocity outflows
+- Benficiary frequency scoring
+- Rapid in/out movement logic
