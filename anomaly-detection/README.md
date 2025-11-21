@@ -1,2 +1,6 @@
 # Anomaly Detection
-Work in progress — SQL logic and dataset coming soon.
+Simulated behavioral segmentation using SQL clustering logic:
+- Baseline profiling
+- Outlier detection
+- Device/IP mismatch checks
+- Session behavior anomalies
