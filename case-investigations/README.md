@@ -1,2 +1,6 @@
 # Case Investigations
-Work in progress — SQL logic and dataset coming soon.
+End-to-end investigation projects:
+- Transaction timeline building
+- Link analysis
+- Beneficiary graphing
+- Narrative preparation
