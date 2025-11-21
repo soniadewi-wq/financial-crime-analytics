@@ -1,2 +1,8 @@
 # Fraud KPI Dashboard
-Work in progress — SQL logic and dataset coming soon.
+
+SQL queries to build executive dashboards for:
+- Fraud losses
+- Attack vectors
+- Decline reasons
+- Rule performance
+- Alert volume & SLA
